@@ -78,7 +78,7 @@ class MyApp extends StatelessWidget {
                   color: Colors.teal.shade100,
                 ),
               ),
-              /*Card(
+              Card(
                   margin: EdgeInsets.symmetric(
                     vertical: 10.0,
                     horizontal: 25,
@@ -96,7 +96,7 @@ class MyApp extends StatelessWidget {
                         fontSize: 20.0,
                       ),
                     ),
-                  )),*/
+                  )),
               /*Card(
                 color: Colors.white,
                 margin: EdgeInsets.symmetric(
